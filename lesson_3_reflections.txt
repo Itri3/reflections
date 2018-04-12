@@ -8,3 +8,6 @@ Describe the differences between forks, clones, and branches. When would you use
 branch is within repository - try new feature in isolated commits
 clone is between repositories - download remote repository
 fork is between repositories on GitHub only - create own repository based on someone else work, while still crediting him
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+For better sinchronization and possible conflicts when changes done by multiple people
