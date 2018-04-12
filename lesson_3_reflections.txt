@@ -14,3 +14,6 @@ For better sinchronization and possible conflicts when changes done by multiple 
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 GoogleDrive - less control on what is "commited" and harder access to version history
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+Experimental changes, or changes which need approval from someone else responsible for the master branch.
