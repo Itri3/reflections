@@ -3,3 +3,8 @@ When sharing with others, or across multiple devices
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 Same as not all changes need/should be commited immediately. Also could cause unnecessary traffic load.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+branch is within repository - try new feature in isolated commits
+clone is between repositories - download remote repository
+fork is between repositories on GitHub only - create own repository based on someone else work, while still crediting him
