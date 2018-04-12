@@ -11,3 +11,6 @@ fork is between repositories on GitHub only - create own repository based on som
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 For better sinchronization and possible conflicts when changes done by multiple people
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+GoogleDrive - less control on what is "commited" and harder access to version history
